@@ -85,5 +85,5 @@ a:link:not(.not-nav) {
 }
 
 a {
-
+text-decoration: none;
 }
