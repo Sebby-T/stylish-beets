@@ -80,6 +80,6 @@ footer {
   font-size: .8rem;
 }
 
-a .link {
+a:link:not(.not-nav) {
   font-size: .8rem;
 }
