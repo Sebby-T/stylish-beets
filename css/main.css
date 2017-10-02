@@ -14,10 +14,12 @@ h1 {
 a:link {
   color: #8f2440;
   font-size: 1.125rem;
+  text-decoration: none;
 }
 
 a:hover {
   color: #3f1622;
+  text-decoration: underline;
 }
 
 nav > ol > li {
@@ -73,6 +75,10 @@ ul > li {
   font-size: 0.8rem;
 }
 
-footer, {
+footer {
+  font-size: 0.8rem;
+}
+
+.link {
   font-size: 0.8rem;
 }
