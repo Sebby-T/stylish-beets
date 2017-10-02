@@ -46,6 +46,7 @@ main > p:nth-of-type(1) {
 main > blockquote > p {
   font-size: 1.5rem;
   font-weight: bold;
+  font-style: italic;
 }
 
 main > blockquote > cite {
@@ -60,4 +61,18 @@ h2 {
 
 ol > li {
   list-style-type: lower-greek;
+}
+
+dl > dt {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+ul > li {
+  list-style-type: circle;
+  font-size: 0.8rem;
+}
+
+footer, {
+  font-size: 0.8rem;
 }
