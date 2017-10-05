@@ -59,6 +59,7 @@ main > blockquote > cite {
 
 h2 {
   font-family: "PT Sans", sans-serif;
+  font-size: 1.5rem;
   color: #3f1622;
 }
 
@@ -76,8 +77,13 @@ ul > li {
   font-size: .8rem;
 }
 
+aside:not(#tags) {
+  font-family: "PT Serif", serif;
+}
+
 footer {
   font-size: .8rem;
+  font-family: "PT Serif", serif;
 }
 
 a:link:not(.not-nav) {
@@ -85,5 +91,7 @@ a:link:not(.not-nav) {
 }
 
 a {
+  font-family: "PT Serif", serif;
+  color: #8f2440;
   text-decoration: none;
 }
