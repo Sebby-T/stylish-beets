@@ -65,6 +65,7 @@ h2 {
 }
 
 ol > li {
+  font-size: 1.125rem;
   list-style-type: lower-greek;
 }
 
@@ -74,6 +75,7 @@ dl > dt {
 }
 
 ul > li {
+  font-size: 1.125rem;
   list-style-type: circle;
   font-size: .8rem;
 }
