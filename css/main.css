@@ -75,7 +75,6 @@ dl > dt {
 }
 
 ul > li {
-  font-size: 1.125rem;
   list-style-type: circle;
   font-size: .8rem;
 }
